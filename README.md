@@ -6,9 +6,9 @@ RideGo provides a clean and modern interface for booking rides, exploring transp
 
 ## 🌐 Live Demo
 
-**[Visit RideGo Live Demo](https://ridego.netlify.app/)**
+**[Visit RideGo Live Demo](https://rideg.netlify.app/)**
 
-> 🚀 Live Website: `https://ridego.netlify.app/`
+> 🚀 Live Website: `https://rideg.netlify.app/`
 
 ---
 
@@ -375,7 +375,7 @@ The project is deployed on **Netlify**.
 
 ### Live Website
 
-**https://ridego.netlify.app/**
+**https://rideg.netlify.app/**
 
 The production build can be deployed to Netlify using:
 
@@ -446,7 +446,7 @@ This project is intended for educational and portfolio purposes.
 ## 🔗 Links
 
 🌐 **Live Demo:**
-https://ridego.netlify.app/
+https://rideg.netlify.app/
 
 💻 **GitHub:**
 Add your repository URL here.
